@@ -24,6 +24,6 @@ This project came from an interest of exploring my local restaurants, parks, and
 - MySQL
 - Bootstrap
 ### What I'll Have to Learn<br>
-I would like to incorporate the use of Google Maps into my application to allow users to search for trails within a certain distance of a zipcode so I will need to learn how to do that(this will likely be something I do down the road).  I will also need to learn how to create user logins to allow users to submit their own destinations they deem bike friendly. 
+I will need to learn how to create user logins to allow users to submit their own destinations they deem bike friendly and I will need to become more familiar with working with databases and importing existing information. I would also like to incorporate the use of Google Maps into my application to allow users to search for trails within a certain distance of an address.  This will likely be something I do down the road.  
 ### Project Tracker<br>
-Link to your Trello board here
+https://trello.com/b/321xb9xX/codecamp-capstone-project
