@@ -10,6 +10,10 @@ For this assignment, you'll create some initial plans for your project.
 
 - ![Project Wireframes](/CapstoneProject_BikeToIt/BikeToIt_Wireframes.pdf)
 
+### UML Diagram
+
+- ![Project UML Diagram](/CapstoneProject_BikeToIt/BikeToIt_UMLDiagrams.png)
+
 ### User Stories
 - As a user, I want to search for all bike trails that match my search criteria.
 - As a user, I want to select a trail from my search results and see more information, which includes a list of all destinations along that trail.
